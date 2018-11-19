@@ -2,10 +2,10 @@
 
 A local environment to minify HTML, CSS & JS files.
 
-![Version](https://img.shields.io/npm/v/local-env-minifier.svg?style=flat-square)
+![Version](https://img.shields.io/npm/v/@alemohamad/local-env-minifier.svg?style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/alemohamad/local-env-minifier.svg?style=flat-square)
 ![Dev Dependencies](https://img.shields.io/david/dev/alemohamad/local-env-minifier.svg?style=flat-square)
-[![License](https://img.shields.io/npm/l/local-env-minifier.svg?style=flat-square)](https://opensource.org/licenses/mit-license.php)
+[![License](https://img.shields.io/npm/l/@alemohamad/local-env-minifier.svg?style=flat-square)](https://opensource.org/licenses/mit-license.php)
 
 ## Getting started with the project
 
