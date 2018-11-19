@@ -1,0 +1,42 @@
+{
+  "name": "local-env-minifier",
+  "description": "A local environment to minify HTML, CSS & JS files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ale Mohamad",
+    "url": "https://alemohamad.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "local",
+    "minifier",
+    "html",
+    "css",
+    "javascript",
+    "sass",
+    "bourbon",
+    "breakpoint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alemohamad/local-env-minifier"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "path": "^0.12.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "latest",
+    "gulp-csso": "^3.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "gulp-notify": "^3.2.0",
+    "browser-sync": "^2.26.3",
+    "run-sequence": "^2.2.1",
+    "breakpoint-sass": "^2.7.1",
+    "bourbon": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}

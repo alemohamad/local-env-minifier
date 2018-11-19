@@ -1,0 +1,8 @@
+/node_modules
+/dist
+gulp-cache
+npm-debug.log
+package-lock.json
+.tmp
+.DS_Store
+Thumbs.db

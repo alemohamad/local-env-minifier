@@ -1,0 +1,99 @@
+- FAVICON:
+<link rel="icon" type="image/png" href="./icons/favicon/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="./icons/favicon/favicon-128x128.png" sizes="128x128" />
+<link rel="icon" type="image/png" href="./icons/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="./icons/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="./icons/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="shortcut icon" href="./icons/favicon/favicon.ico" />
+
+
+
+- Social Tags
+https://developers.facebook.com/docs/sharing/webmasters/
+https://developers.facebook.com/tools/debug/
+<meta property="og:url"          content="https://domain.com/">
+<meta property="og:type"         content="website">
+<meta property="og:title"        content="App Name">
+<meta property="og:description"  content="App Description">
+<meta property="og:image"        content="https://domain.com/facebook-share.png">
+<meta property="og:image:width"  content="1200">
+<meta property="og:image:height" content="627">
+<meta property="fb:app_id"       content="XXXXXX">
+
+https://dev.twitter.com/cards
+https://cards-dev.twitter.com/validator
+<meta name="twitter:card"        content="summary_large_image">
+<meta name="twitter:creator"     content="@username">
+<meta name="twitter:title"       content="App Name">
+<meta name="twitter:description" content="App Description">
+<meta name="twitter:image"       content="https://domain.com/twitter-card.png">
+size: 800x418
+
+
+
+- PWA Android
+<link rel="manifest" href="./manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#000000">
+
+
+
+- macOS Safari Touch Bar
+https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/pinnedTabs/pinnedTabs.html
+<link rel="mask-icon" href="./pinned-tab.svg" color="#000000">
+size: 16x16
+
+
+
+- iOS
+<meta name="apple-mobile-web-app-title" content="App Name">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="translucent">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="./icons/ios/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="./icons/ios/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="./icons/ios/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="./icons/ios/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="./icons/ios/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="./icons/ios/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="./icons/ios/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="./icons/ios/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="./icons/ios/apple-touch-icon-180x180.png">
+
+<!-- iPhone X (1125px x 2436px) -->
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-1125x2436.png" media="(device-width: 375px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)">
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-2436x1125.png" media="(device-width: 375px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)">
+<!-- iPhone 8, 7, 6s, 6 (750px x 1334px) -->
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-750x1334.png" media="(device-width: 375px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-1334x750.png" media="(device-width: 375px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
+<!-- iPhone 8 Plus, 7 Plus, 6s Plus, 6 Plus (1242px x 2208px) -->
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-1242x2208.png" media="(device-width: 414px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)">
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-2208x1242.png" media="(device-width: 414px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)">
+<!-- iPhone 5 (640px x 1136px) -->
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-640x1136.png" media="(device-width: 320px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-1136x640.png" media="(device-width: 320px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
+<!-- iPad Mini, Air (1536px x 2048px) -->
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-1536x2048.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-2048x1536.png" media="(device-width: 768px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
+<!-- iPad Pro 10.5" (1668px x 2224px) -->
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-1668x2224.png" media="(device-width: 834px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-2224x1668.png" media="(device-width: 834px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
+<!-- iPad Pro 11.0" (2388x1668) -->
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-1668x2388.png" media="(device-width: 834px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-2388x1668.png" media="(device-width: 834px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
+<!-- iPad Pro 12.9" (2048px x 2732px) -->
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-2048x2732.png" media="(device-width: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)">
+<link rel="apple-touch-startup-image" href="./icons/ios-launch/apple-launch-2732x2048.png" media="(device-width: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)">
+
+
+
+- Microsoft
+<meta name="application-name" content="App Name">
+<meta name="msapplication-navbutton-color" content="#000000">
+<meta name="msapplication-starturl" content="./">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="./icons/microsoft/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="./icons/microsoft/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="./icons/microsoft/mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="./icons/microsoft/mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="./icons/microsoft/mstile-310x310.png">
