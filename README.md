@@ -33,8 +33,8 @@ gulp watch
 You can also run the tasks separatedly:
 
 ```
-gulp styles
-gulp scripts
+gulp css
+gulp js
 gulp html
 ```
 
