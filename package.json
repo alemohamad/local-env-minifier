@@ -1,7 +1,7 @@
 {
   "name": "@alemohamad/local-env-minifier",
   "description": "A local environment to minify HTML, CSS & JS files.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Ale Mohamad <hello@alemohamad.com> (https://alemohamad.com)",
   "license": "MIT",
   "keywords": [
