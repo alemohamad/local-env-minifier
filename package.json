@@ -28,8 +28,7 @@
     "gulp-notify": "^3.2.0",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.1",
-    "path": "^0.12.7",
-    "run-sequence": "^2.2.1"
+    "path": "^0.12.7"
   },
   "engines": {
     "node": ">=0.12.0"
